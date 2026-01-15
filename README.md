@@ -1,27 +1,122 @@
-<h1 align="center">Hi 👋, I'm Ranaufal Muha</h1>
-<h3 align="center">A passionate Web3 and Blockchain developer from Indonesia</h3>
+  <div
+      style="
+        width: 100%;
+        height: 100dvh;
+        max-height: 600px;
+        position: relative;
+        background-color: black;
+      "
+    >
+      <img
+        src="./img/myphoto.jpeg"
+        alt="Ranaufal Muha's Photo"
+        style="
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+          object-position: center top;
+          opacity: 0.7;
+        "
+      />
+      <div
+        style="
+          position: absolute;
+          top: 0;
+          left: 0;
+          width: 100%;
+          height: 100%;
+          display: flex;
+          flex-direction: column;
+          gap: 50px;
+          justify-content: center;
+          align-items: center;
+          color: white;
+        "
+      >
+        <h1
+          style="
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip-path: inset(50%);
+            white-space: nowrap;
+            border-width: 0;
+          "
+        >
+          Ranaufal Muha
+        </h1>
+        <img
+          src="./img/h1.svg"
+          alt=""
+          style="height: 150px; object-fit: contain"
+        />
+        <a
+          href="#contact"
+          style="
+            background-color: white;
+            padding: 10px 25px 10px 25px;
+            text-decoration: none;
+            color: black;
+          "
+          >Contact Me</a
+        >
+      </div>
+    </div>
+
+ <h1 align="center" style="margin-top: 20px; margin-bottom: 20px">
+      Creative Frontend & Web3 Engineer
+    </h1>
+    <p>
+      I enjoy building things where design, code, and decentralized systems meet.
+Most of my work revolves around interactive frontend experiences, smart contracts,
+and turning Web3 ideas into real, usable products.
+<br/><br/>
+Lately, I’ve been spending a lot of time exploring blockchain architecture,
+on-chain systems, and how decentralized infrastructure can actually make products better,
+not just more complex.
+    </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranaufalmuha&label=Profile%20views&color=0e75b6&style=flat" alt="ranaufalmuha" /> </p>
 
-- 🔭 I’m currently working on [Peridot](https://peridot.icu/)
+---
 
-- 🌱 I’m currently learning **Artificial Intelligent and keep learning about Web3 and Blockchain Technologies**
+## 📖 What I focus on
 
-- 👨‍💻 All of my projects are available at [https://www.ranaufalmuha.com/](https://www.ranaufalmuha.com/)
+- **Creative Frontend Engineering** — interactive UI, motion, and visual details
+- **Web3 & Smart Contract Development** — from Solidity to system design
+- **Startup & Product Building** — building things from zero, not just features
+- **Blockchain Research & Exploration** — learning how things work under the hood
 
-- 📫 How to reach me **ifal.muha@gmail.com**
+---
 
-- ⚡ Fun fact **I think I am funny**
+## 🪅 Selected Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ranaufalmuha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranaufalmuha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ranaufalmuha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranaufalmuha" height="30" width="40" /></a>
-<a href="https://instagram.com/ranaufalmuha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranaufalmuha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ranaufalmuha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ranaufalmuha" height="30" width="40" /></a>
-</p>
+- **[PeridotVault](https://peridotvault.com/)** — a decentralized gaming distribution platform I’m building
+- **[Merai](https://merai.tech/)** — a creative web agency focused on interactive, high-end websites
+- **[Arctis](https://arctis-web.vercel.app/)** — open-source UI experiments with GSAP & Three.js
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://internetcomputer.org/docs/motoko/main/getting-started/motoko-introduction" target="_blank" rel="noreferrer"> <img src="https://motoko-lsp-client.gallerycdn.vsassets.io/extensions/motoko-lsp-client/motoko-lsp-client/2.2.0/1583876431744/Microsoft.VisualStudio.Services.Icons.Default" alt="android" width="40" height="40"/> </a><a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranaufalmuha&show_icons=true&locale=en&layout=compact" alt="ranaufalmuha" /></p>
+## 💻 Tech Stack
+
+- **Frontend:** React / Next.js, Tailwind CSS, GSAP, Three.js
+- **Blockchain:** Solidity, EVM, ICP, smart contract architecture
+- **Languages:** TypeScript, JavaScript, Rust, Motoko
+- **Tooling:** pnpm, Turborepo, Docker, Git
+
+---
+
+<h2 id="contact">📮 Let's connect</h2>
+
+If you’d like to chat about projects, Web3, or just exchange ideas, feel free to reach out.
+
+- 🌐 Website — **[ranaufalmuha.com](https://www.ranaufalmuha.com/)**
+- 📷 Instagram — **[@ranaufalmuha](https://www.instagram.com/ranaufalm/)**
+- ✉️ Email — **ifal.muha@gmail.com**
+
+---
+
+> \*⚡ Fun fact **I think I am funny\***
